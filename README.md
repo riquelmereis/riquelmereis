@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou Riquelme Reis Santos
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&vCenter=true&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Riquelme+Reis+Santos" alt="Typing SVG" />
+  </a>
+</div>
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas no SENAI  
 💻 Apaixonado por tecnologia, programação e inovação  
