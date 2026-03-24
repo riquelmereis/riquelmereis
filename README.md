@@ -1,14 +1,8 @@
-<div align="center">
-  <a href="https://github.com/RiquelmeReisSantos">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1%2C+eu+sou+Riquelme+Reis+Santos+👋;Desenvolvedor+em+Forma%C3%A7%C3%A3o+💻;Aluno+de+Sistemas+no+SENAI+🎓" alt="Typing SVG" />
-  </a>
-  
-  <p>
-    🎓 Estudante de Técnico em Desenvolvimento de Sistemas no SENAI <br>
-    💻 Apaixonado por tecnologia, programação e inovação <br>
-    🚀 Em constante evolução, buscando sempre aprender e criar soluções eficientes
-  </p>
-</div>
+# 👋 Olá, eu sou Riquelme Reis Santos
+
+🎓 Estudante de Técnico em Desenvolvimento de Sistemas no SENAI  
+💻 Apaixonado por tecnologia, programação e inovação  
+🚀 Em constante evolução, buscando sempre aprender e criar soluções eficientes  
 
 ---
 
@@ -49,7 +43,10 @@ Atualmente estou cursando o **Técnico em Desenvolvimento de Sistemas pelo SENAI
 
 ## 📫 Contato
 
-- 📧 Email: *seuemail@email.com* - 💼 LinkedIn: *[Seu LinkedIn aqui](https://linkedin.com/in/seu-perfil)* ---
+- 📧 Email: *seuemail@email.com*  
+- 💼 LinkedIn: *seu link aqui*  
+
+---
 
 ## ⚡ Curiosidade
 
