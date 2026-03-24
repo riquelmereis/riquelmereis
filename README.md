@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@email.com" target="_blank">
+  <a href="mailto:rique.reizf@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -43,8 +43,8 @@ Aqui estão algumas das tecnologias com as quais estou aprendendo e trabalhando 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Riquelme" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riquelmereis&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Riquelme" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmereis&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 ---
