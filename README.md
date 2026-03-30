@@ -43,7 +43,7 @@ Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-## Linguagens Front-end
+## Linguagens Front-end:
 ###
 
 <div align="center">
@@ -54,7 +54,7 @@ Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
 </div>
 
-## Linguagens Back-end
+## Linguagens Back-end:
 ###
 
 <div align="center">
@@ -92,7 +92,7 @@ Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
 </div>
 
-## Sistemas Operacionais conhecidos
+## Sistemas Operacionais conhecidos:
 
 ###
 <div align="center">
