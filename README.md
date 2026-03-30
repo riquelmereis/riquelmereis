@@ -16,15 +16,22 @@ Atualmente estou cursando o **Técnico em Desenvolvimento de Sistemas pelo SENAI
 
 ---
 
-## 📚 O que estou aprendendo no curso
+# 📚 O que estou a aprender no curso
 
-- 💡 Lógica de Programação e Algoritmos  
-- 🌐 Desenvolvimento Web (HTML, CSS e JavaScript)  
-- 🗄️ Banco de Dados (Modelagem e SQL)  
-- 🖥️ Programação Back-end  
-- 🔧 Versionamento de Código com Git e GitHub  
-- 🧩 Análise e Desenvolvimento de Sistemas  
-- 🛠️ Testes e Manutenção de Sistemas  
+Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando os principais conceitos, tecnologias e práticas de desenvolvimento.
+
+## 🎯 Tópicos de Estudo
+
+- 💡 **Lógica de Programação e Algoritmos**
+- 🌐 **Desenvolvimento Web** (HTML, CSS e JavaScript)  
+- 🗄️ **Base de Dados** (Modelagem e SQL)  
+- 🖥️ **Programação Back-end**
+- 🔧 **Versionamento de Código** com Git e GitHub  
+- 🧩 **Análise e Desenvolvimento de Sistemas**
+- 🛠️ **Testes e Manutenção de Sistemas**
+- ⚙️ **Sistemas Operacionais**
+- 📡 **Arquitetura de Redes com IoT**
+- 📋 **Levantamento de Requisitos**
 
 ---
 
