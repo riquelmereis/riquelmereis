@@ -68,5 +68,13 @@ Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando
 ## 📫 Contato
 
 - 📧 Email: *rique.reiszf@hotmail.com*  
-- 💼 LinkedIn: *?*  
+- 💼 LinkedIn: *?*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmereis/riquelmereis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmereis/riquelmereis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/riquelmereis/riquelmereis/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
