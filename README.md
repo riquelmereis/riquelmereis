@@ -20,26 +20,39 @@ Atualmente estou cursando o **Técnico em Desenvolvimento de Sistemas pelo SENAI
 
 Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando os principais conceitos, tecnologias e práticas de desenvolvimento.
 
-## 🎯 Tópicos de Estudo
+## 📚 Tópicos de Estudo  
 
-- 💡 **Lógica de Programação e Algoritmos**
-- 🌐 **Desenvolvimento Web** (HTML, CSS e JavaScript)  
-- 🗄️ **Base de Dados** (Modelagem e SQL)  
-- 🖥️ **Programação Back-end**
-- 🔧 **Versionamento de Código** com Git e GitHub  
-- 🧩 **Análise e Desenvolvimento de Sistemas**
-- 🛠️ **Testes e Manutenção de Sistemas**
-- ⚙️ **Sistemas Operacionais**
-- 📡 **Arquitetura de Redes com IoT**
-- 📋 **Levantamento de Requisitos**
+💻 Lógica de Programação e Algoritmos  
+🌐 Desenvolvimento Web (Front-end e Back-end)  
+🗄️ Banco de Dados  
+📱 Desenvolvimento Mobile  
+🌍 APIs e Integração de Sistemas  
+🌐 Redes de Computadores  
+🖥️ Sistemas Operacionais (Linux e Windows)  
+🧪 Testes de Software  
+📊 Metodologias Ágeis (Scrum, Kanban)  
+🌍 Internet das Coisas (IoT)  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas  
 
-- 🌐 HTML | CSS | JavaScript  
-- 🗄️ SQL  
-- 🔧 Git & GitHub  
+💻 **Programação**  
+🌐 HTML | CSS | JavaScript  
+⚙️ Python | Java | C#  
+
+🗄️ **Banco de Dados**  
+🗄️ SQL | MySQL | PostgreSQL  
+
+🔧 **Ferramentas**  
+🔧 Git & GitHub | VS Code | Figma  
+
+📱 **Mobile & Web**  
+📱 React Native | Flutter  
+🌍 APIs | Node.js  
+
+🌐 **Outros Conhecimentos**  
+🌐 Redes | Linux | IoT  
 
 ---
 
