@@ -69,7 +69,7 @@ Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" title="Arduino / IoT" />
 </div>
 
-## Aplicativos que sei usar
+## Softwares e Aplicativos de Domínio:
 ###
 
 <div align="center">
