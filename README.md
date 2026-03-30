@@ -47,11 +47,6 @@ Atualmente estou cursando o **Técnico em Desenvolvimento de Sistemas pelo SENAI
 
 ## 📫 Contato
 
-- 📧 Email: *seuemail@email.com*  
-- 💼 LinkedIn: *seu link aqui*  
+- 📧 Email: *rique.reiszf@hotmail.com*  
+- 💼 LinkedIn: *?*  
 
----
-
-## ⚡ Curiosidade
-
-Sempre buscando evoluir e transformar conhecimento em prática 🚀
