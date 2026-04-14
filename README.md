@@ -38,7 +38,7 @@ Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Tecnologias e Ferramentas Que Estou Aprendendo 
 
 ## Linguagens Front-end:
 ###
@@ -77,8 +77,6 @@ Este espaço é dedicado a documentar a minha jornada de aprendizagem, abordando
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" title="PyCharm" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="GitHub" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
   <img width="12" />
